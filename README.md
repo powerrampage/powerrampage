@@ -7,7 +7,7 @@
 ` TypeScript/JavaScript • React/NextJS • REST API/Websocket •
  Redux (Toolkit/Saga/Thunk) • Git(Github/Gitlab) • TanStack Query/RTK Query •
  HTML/CSS/SCSS • Rxjs/Observables • Unit Testing • DS&A • Swagger/Postman •
- Principles(SOLID/KISS/DRY/YAGNI) • Microservices • Node.js • Express.js 
+ Principles(SOLID/KISS/DRY/YAGNI)
 `
 
 - Education:
